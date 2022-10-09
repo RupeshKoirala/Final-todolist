@@ -1,0 +1,28 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.fa{
+  color: #85098a ;
+}
+
+.btn-dark{
+  background-color: #85098a;
+}
+
+.btn-color{
+  color: #85098a;
+}
+
+.todolist{
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #85098a;
+}
